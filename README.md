@@ -31,9 +31,9 @@ IG: instagram.com/pol_sabbath/
 Video: https://www.instagram.com/p/CDHnA6hHv9U/
 No Rights Reserved.
 
-Computer specs:
--CPU: Intel(R) Core(TM) i7-4790S CPU @ 3.20GHz - (8 CPUs)
--GPU: Nvidia GeForce GTX 970 - 4GB VRAM
--RAM: 8 GB
--Motherboard: B85M-DS3H
--OS: Windows 10 Pro 64 bits
+### CitationComputer specs:
+*CPU: Intel(R) Core(TM) i7-4790S CPU @ 3.20GHz - (8 CPUs)*
+*GPU: Nvidia GeForce GTX 970 - 4GB VRAM*
+*RAM: 8 GB*
+*Motherboard: B85M-DS3H*
+*OS: Windows 10 Pro 64 bits*
