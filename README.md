@@ -26,6 +26,7 @@ Video processing test with a 4GB Nvidia GPU and the DAIN Python App to generate 
 
 Video restauration, enhancement and upscaling -from 720p to Full HD 1080p- of Topaz's Video Enhance A.I. (https://topazlabs.com/video-enhance-ai/).
 
+### Artwork
 Artwork by the great artist and friend: Pol Sabbath
 
 IG: instagram.com/pol_sabbath/
